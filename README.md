@@ -1,3 +1,3 @@
 # PATBasic
-## This repository is my code about PAT (Basic Level) Practice.
-### If you have more powerful code, please use Issues to let me konw it.
+## This repository is my code about PAT (Basic Level) Practice. If you have more powerful code, please use Issues to let me konw it.
+All problems on https://pintia.cn/
