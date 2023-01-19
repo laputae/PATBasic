@@ -17,6 +17,6 @@ int main(void)
         a/=10;
     }
     b=b*pow(10,w-d)+c;
-    printf("%.2lf",b*1.0/t);
+    printf("%.2lf",b*1.0/t);//if use cout and setprecision in there, it will be output unformatted
     return 0;
 }
